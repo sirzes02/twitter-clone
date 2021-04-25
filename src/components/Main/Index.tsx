@@ -11,7 +11,7 @@ import {
   BellIcon,
   EmailIcon,
 } from './styles';
-import ProfilePage from '../ProfilePage/Index';
+import ProfilePage from '../ProfilePage';
 
 const Main: React.FC = () => {
   return (
