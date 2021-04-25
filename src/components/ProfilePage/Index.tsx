@@ -1,5 +1,4 @@
 import React from 'react';
-
 import {
   Container,
   Banner,
@@ -20,8 +19,8 @@ const ProfilePage: React.FC = () => {
       <ProfileData>
         {/* <EditButton outlined>Editar Perfil</EditButton> */}
 
-        <h1>Santiago Varela</h1>
-        <h2>@Sirzes02</h2>
+        <h2>Santiago Varela</h2>
+        <h1>@Sirzes02</h1>
 
         <p>
           Developer at <a href="https://cvsirzes.herokuapp.com/">Sirzes</a>
